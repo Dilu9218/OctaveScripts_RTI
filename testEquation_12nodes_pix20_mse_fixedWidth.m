@@ -32,9 +32,9 @@ W=[];
 
 % coordinates of the wireless nodes square 
 coords=[	1,5;1,10;1,15;
-  15,1;10,1;5,1;
 	5,20;10,20;15,20;
-	20,15;20,10;20,5;];
+	20,15;20,10;20,5;
+	15,1;10,1;5,1;];
 % number of nodes
 num_nodes=length(coords)
 disp("num_nodes")
